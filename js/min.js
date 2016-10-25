@@ -11,7 +11,7 @@ $(document).ready(function(){
 			{
                 $(".head").css({"position":"fixed","top":"0","z-index":"1000","max-width":"768px","min-width":"300px"});}
 			else
-			{    $(".head").css({"position":"relative","z-index":"0","max-width":"768px",min-width":"300px",});}
+			{    $(".head").css({"position":"relative","z-index":"0","max-width":"768px","min-width":"300px",});}
         });
 });
 //skill
