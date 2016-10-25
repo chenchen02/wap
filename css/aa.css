@@ -177,7 +177,7 @@ position:relative;background-color:white;margin:0 auto;}
 	width:100%;
 	height:100%;
 	
-	height:200px;
+	height:150px;
 	position:relative;
 	
 	
@@ -198,7 +198,7 @@ position:relative;background-color:white;margin:0 auto;}
 
 
 .ability-main1 ul li div{ position:relative; margin:4% auto 0;}
-
+.ability-main1 ul li div img { width: 100%;}
 .ability-main1 ul li span{position:relative; width:130px; height:auto; color: #999;}
 
 .ability-main2{
