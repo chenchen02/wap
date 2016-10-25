@@ -9,9 +9,9 @@ $(document).ready(function(){
  $(window).scroll(function() {
             if($(window).scrollTop()>580)
 			{
-                $(".head").css({"position":"fixed","top":"0","z-index":"1000","width":"768px",});}
+                $(".head").css({"position":"fixed","top":"0","z-index":"1000","max-width":"768px","min-width":"300px"});}
 			else
-			{                $(".head").css("position","relative");}
+			{    $(".head").css({"position":"relative","z-index":"0","max-width":"768px",min-width":"300px",});}
         });
 });
 //skill
