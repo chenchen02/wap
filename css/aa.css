@@ -77,7 +77,7 @@ transition:transform 2s;border-radius:130px;
 	float:left;
 width: 11%;
 height: auto;
-margin-top: 2%;
+margin-top: 8%;
 
 }
 
@@ -115,7 +115,7 @@ position:relative;margin:0 auto;}
 }
 
 
-.about-main1{width:100%;height:100%;height:300px;
+.about-main1{width:100%;height:100%;height:200px;
 position:relative;border:1px solid #DFDCDC;margin:0 auto; border-radius:50px;background:#400D48;}
 
 .about-main1 ul{position:relative;margin: 0 auto;}
